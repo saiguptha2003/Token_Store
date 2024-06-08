@@ -1,23 +1,23 @@
 
-#TOKEN STORE 
+# TOKEN STORE 
 
-#install the virtualenv
+## install the virtualenv
 ```bash
 python -m venv fastapi-env
 ```
 
-#start the virtualenv
+## start the virtualenv
 
 ```bash
 ./fastapi-env/Scripts/activate.bat
 ```
 
-#install all the dependencies
+## install all the dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-#start the app
+## start the app
 ```bash
 python -m uvicorn main:app --reload
 ```
