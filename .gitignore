@@ -1,2 +1,4 @@
 __pycache___
 fastapi-env
+repository/__pycache___
+routers/__pycache___
